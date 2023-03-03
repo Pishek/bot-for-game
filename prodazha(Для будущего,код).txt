@@ -1,0 +1,38 @@
+# Продаем предмет #1
+sell_all(plast_dosp, 0, widht, hight)
+# Продаем предмет #2
+sell_all(kolchuzh_dosp, 0, widht, hight)
+
+# Продаем предмет #3
+sell_all(BD, 1, widht, hight)
+
+# Продаем предмет #4
+sell_all(mineral, 1, widht, hight)
+
+# Продаем предмет #5
+sell_all(moneti, 1, widht, hight)
+
+# Продаем предмет #4
+sell_all(kniga_skorka, 0, widht, hight)
+sell_all(kniga_skorka, 0, widht, hight)
+
+# Продаем предмет #5
+sell_all(kniga_isc, 0, widht, hight)
+sell_all(kniga_isc, 0, widht, hight)
+sell_all(kniga_isc, 0, widht, hight)
+
+# Продаем предмет #6
+sell_all(ametist, 1, widht, hight)
+
+# Продаем предмет #7
+sell_all(sapfir, 1, widht, hight)
+
+# Продаем предмет #8
+sell_all(metal, 1, widht, hight)
+
+# Продаем предмет #9
+sell_all(chast_dosp, 1, widht, hight)
+
+# Продаем предмет #10
+sell_all(dosp_25k, 0, widht, hight)
+sell_all(dosp_25k, 0, widht, hight)

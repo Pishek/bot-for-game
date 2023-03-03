@@ -1,0 +1,16 @@
+width: 1366
+height: 768
+drop: 0
+number_of_drop: 3
+button_F8: 250
+button_F1: 100
+button_F2: 140
+button_F3: 155
+krit_na_2: 0
+voplot_xleb_f7_f6: 250
+step_x: 3
+step_y: 0
+sell_drop: 0
+ymin: 280
+ymax: 450
+runa: 1
